@@ -6,3 +6,6 @@ x=a/b
  x=a%b
 *This is for test in main 
 
+# multiplication
+ x=a*b
+
